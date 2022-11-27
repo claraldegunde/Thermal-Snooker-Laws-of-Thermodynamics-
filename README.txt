@@ -6,6 +6,10 @@ Created on Wed Dec  8 13:36:23 2021
 @author: claraaldegundemanteca
 """
 '''
+
+This code creates a simulation that treats a gas as classically colliding particles to study their thermodynamic characteristics.
+
+
 My code is formed by 4 modules and 2 scripts:
     
 The modules:
